@@ -1,0 +1,24 @@
+{
+    "name": "Midnight Google",
+    "description": "Google becomes cool like midnight",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "icons/ikonica_16x16.png",
+        "48": "icons/ikonica_1_48x48.png",
+        "128": "icons/ikonica_2_128x128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://*.google.com/*"],
+            "css": ["main.css"],
+            "js": ["main.js"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "matches": ["https://*.google.com/*"],
+            "resources": ["images/google1.png", "images/stars1.png"]
+        }
+    ]
+}
