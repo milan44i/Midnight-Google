@@ -2,7 +2,7 @@
 
 A Chrome extension that transforms Google's default bright theme into an elegant midnight dark mode for a more comfortable browsing experience.
 
-![Screenshot 2025-05-22 at 12 05 16](https://github.com/user-attachments/assets/f3d4b611-785a-46e7-b082-af7317d2a0aa)
+![Screenshot 2025-05-22 at 12 09 41](https://github.com/user-attachments/assets/f919ad6b-01e1-4a42-919b-ee46b69840aa)
 
 ## Features
 
